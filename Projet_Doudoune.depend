@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1763920045 source:c:\users\mehme\documents\cours\doudoune\projet_doudoune\main.cpp
+	<iostream>
+	"my_function.cpp"
+
+1763918631 c:\users\mehme\documents\cours\doudoune\projet_doudoune\my_function.cpp
+	"my_function.hpp"
+
+1763912125 c:\users\mehme\documents\cours\doudoune\projet_doudoune\my_function.hpp
+
